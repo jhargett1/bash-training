@@ -1,1 +1,10 @@
 ls: cannot access './dir': No such file or directory
+total 5
+-rwxrwxrwx 1 josh josh  53 Dec 10 16:00 error.txt
+-rwxrwxrwx 1 josh josh 828 Dec  6 19:10 output.txt
+-rwxrwxrwx 1 josh josh 398 Nov 29 19:11 output2.txt
+-rwxrwxrwx 1 josh josh 681 Nov 29 19:11 paragrah.txt
+-rwxrwxrwx 1 josh josh 417 Nov 29 19:11 part1.txt
+-rwxrwxrwx 1 josh josh 264 Nov 29 19:11 part2.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:09 part3.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:10 part4.txt

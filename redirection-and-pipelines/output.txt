@@ -1,7 +1,18 @@
-total 8
--rw-rw-rw- 1 vscode vscode   0 Jan 17 18:03 error.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 18:10 output.txt
--rw-rw-rw- 1 vscode vscode 415 Jan 17 17:37 part1.txt
--rw-rw-rw- 1 vscode vscode 262 Jan 17 17:37 part2.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 17:54 part3.txt
--rw-rw-rw- 1 vscode vscode   0 Jan 17 17:56 part4.txt
+total 1
+-rwxrwxrwx 1 josh josh  54 Nov 29 19:11 error.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:09 output.txt
+-rwxrwxrwx 1 josh josh 398 Nov 29 19:11 output2.txt
+-rwxrwxrwx 1 josh josh 681 Nov 29 19:11 paragrah.txt
+-rwxrwxrwx 1 josh josh 417 Nov 29 19:11 part1.txt
+-rwxrwxrwx 1 josh josh 264 Nov 29 19:11 part2.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:09 part3.txt
+-rwxrwxrwx 1 josh josh   0 Nov 29 19:11 part4.txt
+total 1
+-rwxrwxrwx 1 josh josh  54 Nov 29 19:11 error.txt
+-rwxrwxrwx 1 josh josh 414 Dec  6 19:09 output.txt
+-rwxrwxrwx 1 josh josh 398 Nov 29 19:11 output2.txt
+-rwxrwxrwx 1 josh josh 681 Nov 29 19:11 paragrah.txt
+-rwxrwxrwx 1 josh josh 417 Nov 29 19:11 part1.txt
+-rwxrwxrwx 1 josh josh 264 Nov 29 19:11 part2.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:09 part3.txt
+-rwxrwxrwx 1 josh josh   0 Dec  6 19:10 part4.txt
